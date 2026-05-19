@@ -9,4 +9,4 @@ Registrar exercícios, projetos, códigos e atividades desenvolvidas durante meu
 Este repositório será atualizado mensalmente com novos projetos, exercícios e aprendizados.
 
 ---
-Desenvolvido por Eduardo.
+Desenvolvido por NoG0at.
